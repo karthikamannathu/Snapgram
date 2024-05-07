@@ -1,0 +1,10 @@
+export { Home} from './Home';
+export { Explore} from './Explore'; 
+export { AllUsers} from './AllUsers';
+export { EditPost} from './EditPost';
+export { CreatePost} from './CreatePost';
+export { PostDetails} from './PostDetails';
+export { Profile} from './Profile';
+export { Saved} from './Saved';
+export { UpdateProfile} from './UpdateProfile';
+export { LikedPost} from './LikedPost';
