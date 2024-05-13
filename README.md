@@ -59,3 +59,7 @@ Tailwind CSS
 
 ## 🖼️Screen Shorts
 ![image](https://github.com/karthikamannathu/Snapgram/assets/133741486/0c0a523e-4c9e-4dc3-8a1b-55323355f424)
+![image](https://github.com/karthikamannathu/Snapgram/assets/133741486/c47830d1-5022-485b-8f9a-e7a8def35e3c)
+![image](https://github.com/karthikamannathu/Snapgram/assets/133741486/a1892fc1-4d2a-4bad-97af-ed0f14eedcdb)
+
+
