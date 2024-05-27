@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 
 
-SOCIAL MEDIA WEBSITE (sapgram)
+SOCIAL MEDIA WEBSITE (snapgram)
 
 ⚙️ Tech Stack
 React.js
